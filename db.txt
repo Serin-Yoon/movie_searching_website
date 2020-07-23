@@ -1,0 +1,122 @@
+name=정직한 후보,genre=코미디,rate=8.34,where=넷플릭스,img=./movieImage/정직한 후보.jpg
+name=시동,genre=코미디,rate=8.68,where=넷플릭스,img=./movieImage/시동.jpg
+name=인턴,genre=코미디,rate=9.04,where=넷플릭스,img=./movieImage/인턴.jpg
+name=검사외전,genre=코미디,rate=8.56,where=넷플릭스,img=./movieImage/검사외전.jpg
+name=토르-라그나로크,genre=코미디:액션:SF:판타지,rate=2,where=넷플릭스,img=./movieImage/토르-라그나로크.jpg
+name=인디펜던스 데이,genre=액션:SF,rate=7.34,where=넷플릭스,img=./movieImage/인디펜던스 데이.jpg
+name=다크나이트,genre=액션,rate=9.33,where=넷플릭스,img=./movieImage/다크나이트.jpg  
+name=아저씨,genre=액션:스릴러,rate=9.24,where=넷플릭스,img=./movieImage/아저씨.jpg
+name=청년경찰,genre=액션:코미디,rate=9.03,where=넷플릭스,img=./movieImage/청년경찰.jpg
+name=어벤져스,genre=액션:스릴러,rate=8.25,where=넷플릭스,img=./movieImage/어벤져스.jpg
+name=스파이더맨-파프롬 홈,genre=SF:액션,rate=8.99,where=넷플릭스,img=./movieImage/스파이더맨-파프롬 홈.jpg
+name=아이언맨,genre=SF:액션,rate=8.92,where=넷플릭스,img=./movieImage/아이언맨.jpg
+name=맨 인 블랙,genre=SF:액션:코미디,rate=8.70,where=넷플릭스,img=./movieImage/맨 인 블랙.jpg
+name=마션,genre=SF:액션,rate=8.72,where=넷플릭스,img=./movieImage/마션.jpg
+name=엑스맨-데이즈 오브 퓨처 패스트,genre=SF:액션,rate=8.76,where=넷플릭스,img=./movieImage/엑스맨-데이즈 오브 퓨처 패스트.jpg
+name=부산행,genre=스릴러:액션,rate=8.59,where=넷플릭스,img=./movieImage/부산행.jpg
+name=신세계,genre=스릴러:액션,rate=9.50,where=넷플릭스,img=./movieImage/신세계.jpg
+name=타짜-신의 손,genre=스릴러,rate=7.76,where=넷플릭스,img=./movieImage/타짜-신의 손.jpg
+name=유주얼 서스펙트,genre=스릴러,rate=8.66,where=넷플릭스,img=./movieImage/유주얼 서스펙트.jpg
+name=검은 사제들,genre=스릴러,rate=8.55,where=넷플릭스,img=./movieImage/검은 사제들.jpg
+name=가장 보통의 연애,genre=멜로:코미디,rate=8.54,where=넷플릭스,img=./movieImage/가장 보통의 연애.jpg
+name=너의 이름은,genre=멜로:판타지,rate=9.02,where=넷플릭스,img=./movieImage/너의 이름은.jpg
+name=클래식,genre=멜로,rate=9.79,where=넷플릭스,img=./movieImage/클래식.jpg
+name=위대한 개츠비,genre=멜로,rate=8.41,where=넷플릭스,img=./movieImage/위대한 개츠비.jpg
+name=이터널 선샤인,genre=멜로:SF:판타지,rate=9.26,where=넷플릭스,img=./movieImage/이터널 선샤인.jpg
+name=노트북,genre=멜로,rate=9.47,where=넷플릭스,img=./movieImage/노트북.jpg
+name=신과 함께-인과 연,genre=판타지:액션,rate=8.63,where=넷플릭스,img=./movieImage/신과 함께-인과 연.jpg
+name=반지의 제왕-반지원정대,genre=판타지:액션,rate=9.26,where=넷플릭스,img=./movieImage/반지의 제왕-반지원정대.jpg
+name=지금 만나러 갑니다,genre=판타지:멜로,rate=8.98,where=넷플릭스,img=./movieImage/지금 만나러 갑니다.jpg
+name=당신 거기 있어줄래요,genre=판타지:멜로,rate=8.80,where=넷플릭스,img=./movieImage/당신 거기 있어줄래요.jpg
+name=매드맥스-분노의 도로,genre=판타지:액션,rate=8.86,where=넷플릭스,img=./movieImage/매드맥스-분노의 도로.jpg
+name=황금나침반,genre=액션:판타지,rate=3.0,where=왓챠,img=./movieImage/TheGoldenCompass.jpg
+name=설국열차,genre=액션:SF,rate=3.7,where=왓챠,img=./movieImage/snowpiercer.jpg
+name=독전,genre=액션:범죄,rate=3.6,where=왓챠,img=./movieImage/believer.jpg
+name=글래디에이터,genre=액션:드라마,rate=3.0,where=왓챠,img=./movieImage/gladiator.jpg
+name=나 유 씨미,genre=액션:모험,rate=3.8,where=왓챠,img=./movieImage/nowyouseeme.jpg
+name=매드맥스,genre=액션:SF,rate=4.1,where=왓챠,img=./movieImage/madmax.jpg
+name=에일리언,genre=액션:SF,rate=3.9,where=왓챠,img=./movieImage/alien.jpg
+name=메이즈러너,genre=액션:SF:미스터리,rate=3.8,where=왓챠,img=./movieImage/mazerunner.jpg
+name=마션,genre=모험:SF:드라마,rate=3.9,where=왓챠,img=./movieImage/martian.jpg
+name=공각기동대,genre=액션:SF:애니메이션,rate=3.9,where=왓챠,img=./movieImage/ghostshell.jpg
+name=웰컴 투 동막골,genre=코미디:전쟁,rate=3.7,where=왓챠,img=./movieImage/welcome.jpg
+name=완득이,genre=드라마:코미디,rate=3.4,where=왓챠,img=./movieImage/punch.jpg
+name=악마는 프라다를 입는다,genre=드라마:코미디,rate=3.9,where=왓챠,img=./movieImage/prada.jpg
+name=완벽한 타인,genre=드라마:코미디,rate=3.7,where=왓챠,img=./movieImage/intimatestranger.jpg
+name=아이스 에이지,genre=애니메이션:코미디:애니메이션:모험,rate=3.6,where=왓챠,img=./movieImage/iceage.jpg
+name=다이하드,genre=액션:스릴러,rate=4.0,where=왓챠,img=./movieImage/diehard.jpg
+name=이미테이션 게임,genre=드라마:스릴러,rate=3.8,where=왓챠,img=./movieImage/imitationgame.jpg
+name=메멘토,genre=미스터리:스릴러,rate=4.1,where=왓챠,img=./movieImage/memento.jpg
+name=버닝,genre=스릴러:드라마,rate=3.4,where=왓챠,img=./movieImage/burning.jpg
+name=살인의 추억,genre=범죄:미스터리:스릴러,rate=4.1,where=왓챠,img=./movieImage/memories.jpg
+name=타이타닉,genre=멜로:드라마,rate=4.3,where=왓챠,img=./movieImage/titanic.jpg
+name=오만과 편견,genre=멜로:시대극,rate=4.1,where=왓챠,img=./movieImage/prejudice.jpg
+name=콜 미 바이 유어 네임,genre=멜로:드라마,rate=4.0,where=왓챠,img=./movieImage/callme.jpg
+name=비긴 어게인,genre=음악:멜로,rate=4.1,where=왓챠,img=./movieImage/beginagain.jpg
+name=건축학개론,genre=멜로,rate=3.5,where=왓챠,img=./movieImage/achitecture.jpg
+name=인셉션,genre=액션:모험:판타지,rate=4.4,where=왓챠,img=./movieImage/inception.jpg
+name=렛미인,genre=판타지:드라마:스릴러,rate=3.5,where=왓챠,img=./movieImage/letmein.jpg
+name=매트릭스,genre=액션:판타지:SF,rate=4.2,where=왓챠,img=./movieImage/matrix.jpg
+name=라이프 오브 파이,genre=판타지:드라마,rate=4.0,where=왓챠,img=./movieImage/lifeofpi.jpg
+name=늑대소년,genre=멜로:판타지,rate=3.5,where=왓챠,img=./movieImage/wolf.jpg
+name=부산행,genre=액션:스릴러,rate=9.6,where=웨이브,img=./movieImage/busan.jpg
+name=청년경찰,genre=액션,rate=9.1,where=웨이브,img=./movieImage/police.jpg
+name=논스톱,genre=액션,rate=8.5,where=웨이브,img=./movieImage/nonstop.jpg
+name=나우 유 씨 미2,genre=액션,rate=8.5,where=웨이브,img=./movieImage/nowyouseeme.jpg
+name=트랜스포머,genre=액션,rate=9.5,where=웨이브,img=./movieImage/transformers.jpg
+name=신과 함께; 인과 연,genre=SF,rate=8.6,where=웨이브,img=./movieImage/withgod.jpg
+name=닥터 스트레인지,genre=SF,rate=8.9,where=웨이브,img=./movieImage/drstrange.jpg
+name=아이언맨,genre=SF,rate=8.9,where=웨이브,img=./movieImage/ironman.jpg
+name=쥬라기 공원,genre=SF,rate=9.3,where=웨이브,img=./movieImage/jurassicpark.jpg
+name=신과 함께; 죄와 벌,genre=SF,rate=8.7,where=웨이브,img=./movieImage/withgod1.jpg
+name=원더풀 고스트,genre=코미디,rate=8.3,where=웨이브,img=./movieImage/wonderfulghost.jpg
+name=킬러의 보디가드,genre=코미디,rate=9,where=웨이브,img=./movieImage/killer.jpg
+name=세 얼간이,genre=코미디,rate=9.34,where=웨이브,img=./movieImage/threeidiots.jpg
+name=인사이드 아웃,genre=코미디,rate=9.0,where=웨이브,img=./movieImage/insideout.jpg
+name=공동경비구역 JSA,genre=코미디,rate=9.2,where=웨이브,img=./movieImage/jsa.jpg
+name=오피스,genre=스릴러,rate=7.1,where=웨이브,img=./movieImage/office.jpg
+name=숨바꼭질,genre=스릴러,rate=6.8,where=웨이브,img=./movieImage/hideandseek.jpg
+name=더 폰,genre=스릴러:액션,rate=8,where=웨이브,img=./movieImage/thephone.jpg
+name=장산범,genre=스릴러,rate=7.6,where=웨이브,img=./movieImage/jangsanbeom.jpg
+name=식스센스,genre=스릴러,rate=9.0,where=웨이브,img=./movieImage/sixthsense.jpg
+name=어바웃타임,genre=멜로,rate=9.1,where=웨이브,img=./movieImage/abouttime.jpg
+name=너의 이름은,genre=멜로,rate=8.7,where=웨이브,img=./movieImage/yourname.jpg
+name=뷰티인사이드,genre=멜로,rate=8.3,where=웨이브,img=./movieImage/beautyinside.jpg
+name=이터널 선샤인,genre=멜로,rate=9.2,where=웨이브,img=./movieImage/sunshine.jpg
+name=말할 수 없는 비밀,genre=멜로,rate=9.2,where=웨이브,img=./movieImage/secret.jpg
+name=말레피센트,genre=판타지,rate=8.2,where=웨이브,img=./movieImage/maleficent.jpg
+name=백 투 더 퓨쳐,genre=판타지,rate=9.4,where=웨이브,img=./movieImage/backtothefuture.jpg
+name=오렌지,genre=판타지:멜로,rate=9.9,where=웨이브,img=./movieImage/orange.jpg
+name=이상한 나라의 앨리스,genre=판타지,rate=7.5,where=웨이브,img=./movieImage/alice.jpg
+name=미녀와 야수,genre=판타지:멜로,rate=9.0,where=웨이브,img=./movieImage/beautyandthebeast.jpg
+name=살인의추억,genre=액션,rate=9.4,where=시리즈온,img=./movieImage/memoriesofmurder.jpg
+name=테이큰,genre=액션,rate=9.2,where=시리즈온,img=./movieImage/taken.jpg
+name=강남1970,genre=액션,rate=7.1,where=시리즈온,img=./movieImage/gangnam1970.jpg
+name=다크나이트,genre=액션,rate=9.3,where=시리즈온,img=./movieImage/thedarknight.jpg
+name=대부2,genre=액션,rate=9.2,where=시리즈온,img=./movieImage/thegodfather.jpg
+name=반지의 제왕,genre=판타지:SF,rate=9.3where=시리즈온,img=./movieImage/lordofthering1.jpg
+name=쥬만지,genre=판타지,rate=9.2,where=시리즈온,img=./movieImage/jumanji.jpg
+name=더플랫폼,genre=SF:판타지:스릴러,rate=7.1,where=시리즈온,img=./movieImage/platform.jpg
+name=터미네이터_다크페이트,genre=SF:판타지,rate=8.4,where=시리즈온,img=./movieImage/terminator.jpg
+name=애드아스트라,genre=SF:판타지,rate=7.3,where=시리즈온,img=./movieImage/adastra.jpg
+name=우리는 형제입니다,genre=코미디,rate=7.2,where=시리즈온,img=./movieImage/brothers.jpg
+name=힘을내요 미스터리,genre=코미디,rate=7.6,where=시리즈온,img=./movieImage/mrlee.jpg
+name=극한직업,genre=코미디,rate=8.5,where=시리즈온,img=./movieImage/extremejob.jpg
+name=맨발의 기봉이,genre=코미디,rate=7.2,where=시리즈온,img=./movieImage/gibong.jpg
+name=조선명탐정,genre=코미디,rate=7.7,where=시리즈온,img=./movieImage/detective.jpg
+name=침입자,genre=스릴러:공포,rate=5.8,where=시리즈온,img=./movieImage /intruder.jpg
+name=마녀,genre=스릴러:공포,rate=8.2,where=시리즈온,img=./movieImage/witch.jpg
+name=겟아웃,genre=스릴러:공포,rate=8.3,where=시리즈온,img=./movieImage/getout.jpg
+name=아이덴티티,genre=스릴러:드라마,rate=9.0,where=시리즈온,img=./movieImage/identity.jpg
+name=컨저링,genre=공포:스릴러,rate=7.8,where=시리즈온,img=./movieImage/conjuring.jpg
+name=러브픽션,genre=멜로,rate=6.7,where=시리즈온,img=./movieImage/lovefiction.jpg
+name=라라랜드,genre=멜로:뮤지컬,rate=8.9,where=시리즈온,img=./movieImage/lalaland.jpg
+name=8월의 크리스마스,genre=멜로,rate=9.0,where=시리즈온,img=./movieImage/8월의 크리스마스.jpg
+name=어바웃타임,genre=멜로:코미디,rate=9.2,where=시리즈온,img=./movieImage/abouttime.jpg
+name=노트북,genre=멜로,rate=9.4where=시리즈온,img=./movieImage/notebook.jpg
+name=노팅힐,genre=멜로:코미디,rate=9.5,where=시리즈온,img=./movieImage/hill.jpg
+name=헝거게임,genre=판타지,rate=8.3,where=시리즈온,img=./movieImage/hungergame.jpg
+name=신과함께- 인과 연,genre=SF:판타지,rate=7.7,where=시리즈온,img=./movieImage/gods.jpg
+name=설국열차,genre=SF:판타지,rate=8.0,where=시리즈온,img=./movieImage/snow.jpg
+name=인터스텔라,genre=판타지:SF,rate=9.1,where=시리즈온,img=./movieImage/interstellar.jpg
+name=인셉션,genre=SF,rate=9.23,where=시리즈온,img=./movieImage/inception.jpg

@@ -1,0 +1,42 @@
+
+
+#header {
+    color: #a6a6a6;
+    cursor: default;
+    position: relative;
+    text-align: center;
+    z-index: 10001;
+    font-family: 'East Sea Dokdo', cursive;
+}
+
+
+.searchec-movie{
+    font-family: 'East Sea Dokdo', cursive;
+    margin-bottom: 50px;
+}
+
+.searched-target{
+    font-family: 'East Sea Dokdo', cursive;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.same-list{
+    font-family: 'East Sea Dokdo', cursive;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.same-list > *{
+    padding: 10px;
+}
+
+.movie > *{
+    padding: 5px;
+}
+
+img{
+    height: 300px;
+    width: 250px;
+}

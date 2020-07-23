@@ -1,0 +1,255 @@
+<html>
+	<head>
+		<title>서비스별 있는 영화</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="stylesheet" href="assets/css/main.css" />
+        <link rel="stylesheet" href="assets/css/service.css"/>
+        <link href="https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Song+Myung&display=swap" rel="stylesheet">
+
+    </head>
+    <body>
+        <div class = "top">
+            <a href ="main.html"><img id ="service_name" src = "images/netflix_logo.PNG"></a>
+            <div id="search_div">
+                <input type="text" name="query" id="query" value="" placeholder="Query">
+                <input type="submit" value="Search" class="fit" id = "search_button"/>
+            </div>
+        </div>
+        <div class = "content">
+            <div class = "genre">
+                <div class = "genre_name">액션</div>
+                <div class = "movie_poster" id="poster11"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/avengers1.jpg">
+                    <div class = "movie_info" id = "movie_info11">Avengers1<br>
+                        평점: 9.43
+                    </div>
+                </div>
+                <div class = "movie_poster" id="poster12"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/avengers2.jpg">
+                    <div class = "movie_info" id = "movie_info12">Avengers2<br>
+                        내용 2
+                    </div>
+                </div>
+                <div class = "movie_poster" id="poster13"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/avengers3.jpg">
+                    <div class = "movie_info" id = "movie_info13">Avengers3<br>
+                        내용 3
+                    </div>
+                </div>
+                <div class = "movie_poster" id="poster14"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/avengers4.jpg">
+                    <div class = "movie_info" id = "movie_info14">Avengers4<br>
+                        내용 4
+                    </div>
+                </div>
+                <div class = "movie_poster" id="poster15"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/SFmovie.png">
+                    <div class = "movie_info" id = "movie_info15">스파이더맨!!인데<br>
+                        몸이 길어졌네,,<br>
+                        포스터 비율 맞으면 문제 없을꺼 같아요
+                    </div>
+                </div>
+
+            </div>
+            <div class = "genre">
+                <div class = "genre_name">멜로</div>
+                <div class = "movie_poster" id="poster21"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/bg2.jpg">
+                    <div class = "movie_info" id = "movie_info21">멜로영화<br>
+                        평점: 9.43
+                    </div>
+                </div>
+                <div class = "movie_poster" id="poster22"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/naver.png">
+                    <div class = "movie_info" id = "movie_info22">ㅁㄹㅇㅎ<br>
+                        평점: 9.43
+                    </div>
+                </div>
+                <div class = "movie_poster" id="poster23"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/netflix.png">
+                    <div class = "movie_info" id = "movie_info23">ㅁㄹㅇㅎ2<br>
+                        평점: 9.43
+                    </div>
+                </div>
+                <div class = "movie_poster" id="poster24"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/wavve.jpg">
+                    <div class = "movie_info" id = "movie_info24">멜로영화..랄까?<br>
+                        평점: 222
+                    </div>
+                </div>
+                <div class = "movie_poster" id="poster25"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/watcha.png">
+                    <div class = "movie_info" id = "movie_info25">Avengers5<br>
+                        평점: 확인해줘요
+                    </div>
+                </div>
+            </div>
+            <div class = "genre">
+                <div class = "genre_name">코미디</div>
+                <div class = "movie_poster" id="poster31"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/avengers1.jpg">
+                    <div class = "movie_info" id = "movie_info31">Avengers1<br>
+                        평점: 9.43
+                    </div>
+                </div>
+                <div class = "movie_poster" id="poster32"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/avengers2.jpg">
+                    <div class = "movie_info" id = "movie_info32">Avengers2<br>
+                        평점: 9.43
+                    </div>
+                </div>
+                <div class = "movie_poster" id="poster33"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/avengers3.jpg">
+                    <div class = "movie_info" id = "movie_info33">Avengers3<br>
+                        평점: 9.43
+                    </div>
+                </div>
+                <div class = "movie_poster" id="poster34"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/avengers4.jpg">
+                    <div class = "movie_info" id = "movie_info34">Avengers4<br>
+                        평점: 222
+                    </div>
+                </div>
+                <div class = "movie_poster" id="poster35"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/avengers1.jpg">
+                    <div class = "movie_info" id = "movie_info35">Avengers5<br>
+                        평점: 111
+                    </div>
+                </div>
+            </div>
+            <div class = "genre">
+                <div class = "genre_name">스릴러</div>
+                <div class = "movie_poster" id="poster41"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/avengers1.jpg">
+                    <div class = "movie_info" id = "movie_info41">Avengers1<br>
+                        평점: 9.43
+                    </div>
+                </div>
+                <div class = "movie_poster" id="poster42"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/avengers2.jpg">
+                    <div class = "movie_info" id = "movie_info42">Avengers2<br>
+                        평점: 9.43
+                    </div>
+                </div>
+                <div class = "movie_poster" id="poster43"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/avengers3.jpg">
+                    <div class = "movie_info" id = "movie_info43">Avengers3<br>
+                        평점: 9.43
+                    </div>
+                </div>
+                <div class = "movie_poster" id="poster44"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/avengers4.jpg">
+                    <div class = "movie_info" id = "movie_info44">Avengers4<br>
+                        평점: 222
+                    </div>
+                </div>
+                <div class = "movie_poster" id="poster45"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/avengers1.jpg">
+                    <div class = "movie_info" id = "movie_info45">Avengers5<br>
+                        평점: 111
+                    </div>
+                </div>
+            </div>
+            <div class = "genre">
+                <div class = "genre_name">SF</div>
+                <div class = "movie_poster" id="poster51"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/avengers1.jpg">
+                    <div class = "movie_info" id = "movie_info51">Avengers1<br>
+                        평점: 9.43
+                    </div>
+                </div>
+                <div class = "movie_poster" id="poster52"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/avengers2.jpg">
+                    <div class = "movie_info" id = "movie_info52">Avengers2<br>
+                        평점: 9.43
+                    </div>
+                </div>
+                <div class = "movie_poster" id="poster53"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/avengers3.jpg">
+                    <div class = "movie_info" id = "movie_info53">Avengers3<br>
+                        평점: 9.43
+                    </div>
+                </div>
+                <div class = "movie_poster" id="poster54"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/avengers4.jpg">
+                    <div class = "movie_info" id = "movie_info54">Avengers4<br>
+                        평점: 222
+                    </div>
+                </div>
+                <div class = "movie_poster" id="poster55"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/avengers1.jpg">
+                    <div class = "movie_info" id = "movie_info55">Avengers5<br>
+                        평점: 111
+                    </div>
+                </div>
+            </div>
+            <div class = "genre">
+                <div class = "genre_name">판타지</div>
+                <div class = "movie_poster" id="poster61"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/avengers1.jpg">
+                    <div class = "movie_info" id = "movie_info61">Avengers1<br>
+                        평점: 9.43
+                    </div>
+                </div>
+                <div class = "movie_poster" id="poster62"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/avengers2.jpg">
+                    <div class = "movie_info" id = "movie_info62">Avengers2<br>
+                        평점: 9.43
+                    </div>
+                </div>
+                <div class = "movie_poster" id="poster63"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/avengers3.jpg">
+                    <div class = "movie_info" id = "movie_info63">Avengers3<br>
+                        평점: 9.43
+                    </div>
+                </div>
+                <div class = "movie_poster" id="poster64"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/avengers4.jpg">
+                    <div class = "movie_info" id = "movie_info64">Avengers4<br>
+                        평점: 222
+                    </div>
+                </div>
+                <div class = "movie_poster" id="poster65"
+                onmouseover="mouseOnPoster(this.id)" onmouseout="mouseOutPoster(this.id)">
+                    <img class="poster_img" src ="images/avengers1.jpg">
+                    <div class = "movie_info" id = "movie_info65">Avengers5<br>
+                        평점: 111
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="assets/js/service.js"></script>
+        <script src="service_select.js"></script>
+    </body>
+</html>

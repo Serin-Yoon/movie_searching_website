@@ -1,0 +1,15 @@
+
+const bodyAll = document.querySelector('body');
+const posternum = document.querySelector("#poster11")
+
+function mouseOnPoster(posterid){
+    var posterNum = parseInt(posterid.slice(6))
+    const posterInfo = document.querySelector(`#movie_info${posterNum}`);
+    posterInfo.style.display= "block";
+}
+
+function mouseOutPoster(posterid){  
+    var posterNum = parseInt(posterid.slice(6))
+    const posterInfo = document.querySelector(`#movie_info${posterNum}`);
+    posterInfo.style.display= "none";
+}
